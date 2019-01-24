@@ -1,0 +1,573 @@
+
+body {
+	margin:0;
+	padding:0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.top-bar {
+	width:100%;
+	float:left;
+	margin:0;
+	padding:10px 0px ;
+	box-shadow:0 0 10px #ccc;
+	height:40px;	
+}
+
+.container{
+	width:1170px;
+	margin:auto;
+}
+
+.top-bar a
+{
+	padding:0px;
+
+}
+
+
+.logo
+{
+	float:left;
+}
+.logo img{
+	margin-left:50px;
+}
+
+.menu {
+	float:right;
+	text-align:left;
+	margin-right: 30px;
+}
+.menu a {	
+	text-align:left;
+	padding:0 15px;
+	font-size:18px;
+	text-decoration:none;
+	 color: #565656;
+}
+
+.banner {
+	width:100%;
+	float:left;
+	height:300px;
+	background-image:url(../images/VerifarePlus-HD.jpg);
+	background-repeat:no-repeat;
+}
+
+
+
+
+.about
+{
+	float:left;
+	width:100%;
+	height:200px;
+	padding:30px 0;
+	background-color:#eee;
+
+} 
+
+.left-col{
+	width:49%;
+	float:left;
+	margin-right:1%;
+	
+
+
+}
+
+.right-col{
+	width:49%;
+	float:left;	
+	margin-left:1%;
+   
+}
+
+
+
+
+.about h3 {
+
+	
+}
+.border{
+	width:50px;
+	background-color: yellow;
+	height:3px;
+}
+.right-col p{
+	line-height:25px;
+	color:#565656;
+	text-align:justify;
+}
+
+.our-expertise{
+    float:left;
+	width:100%;
+	height:200px;
+	padding:30px 0;
+}
+
+.progressbar {
+	margin-top:30px;
+
+}
+
+.w3-light-grey {
+	background:#ccc;
+	width:100%;
+	height:2px;
+
+}
+.w3-grey{
+	background-color:#000;
+	width:90%;
+	height:2px;
+}
+.w3-greys{
+	background-color:#000;
+	width:85%;
+	height:2px;
+}
+.w3-greyss{
+	background-color:#000;
+	width:80%;
+	height:2px;
+}
+
+.graphical-design{
+	float:left;
+	width:100%;
+	height:200px;
+	padding-top:50px ;
+}
+.left-colm{
+	width:32.33%;
+	float:left;
+	margin-right:1%;
+	
+
+}
+.centre-colm{
+	width:31.33%;
+	float:left;
+	margin-right:1%;
+	margin-left:1%;
+	
+}
+.right-colm{
+	width:32.33%;
+	margin-left:1%;
+	float:left;
+	
+}
+.left-colm p{
+	font-size: 18px;
+	color:#565656;
+	text-align:justify;
+}
+	
+
+.centre-colm p{
+	font-size: 18px;
+	color: #565656;
+	text-align:justify;
+}
+
+.right-colm p{
+	font-size: 18px;
+	color:#565656;
+	text-align:justify;
+}
+
+.left-colm p1{
+	line-height:25px;
+	color:#565656;
+	font-size: 18px;
+    text-align:justify;
+}
+
+.centre-colm p1{
+	line-height:25px;
+	color:#565656;
+	text-align:justify;
+}
+.right-colm p1{
+	line-height:25px;
+	color:#565656;
+}
+
+
+.icon{
+float:left;
+width:100%;		
+}
+
+.icon img {
+float:left;
+padding:5px;		
+}
+.left-colom p img{
+	float:left;
+}
+.left-colms{
+	
+    width:49%;
+	float:left;
+	margin-right:1%;
+	
+}
+.right-colms{
+	width:49%;
+	float:left;
+	margin-left:1%;
+	
+}
+.image{
+	width:100%;
+	height:400px;
+	background-image:url(../images/career2.jpg);
+	float:left;
+}
+.lets-make-magic{
+	width:100%;
+	height:400px;
+	padding:25px,0px;
+	float:left;
+	background-color:#eee;
+
+}
+.right-colms{
+	width:41%;
+	float:left;
+	margin-left:1%;
+	padding:25px;
+
+}
+.right-colms p{
+	font-size: 16px;
+	color:#565656;
+	line-height:25px;
+	text-align: justify;
+}
+.portfolio{
+	float:left;
+	width:100%;
+	height:200px;
+	padding-top:30px ;
+}
+.content p{
+	line-height:25px;
+	font-size:16px;
+	color:#565656;
+	text-align:justify;
+}
+
+.card{
+	width:24.2%;
+	float:left;
+	background:#eee;
+	height:200px;
+}
+
+.centre-a-coll{
+	width:23;
+	float:left;
+	margin-left:1%;
+	margin-right:1%;
+}
+.centre-b-coll{
+	width:23;
+	float:left;
+	margin-left:1%;
+	margin-right:1%;
+}
+.right-coll{
+	width:24;
+	float:left;
+	margin-right:1%;
+}
+.box{
+	width:100%;
+	height:400px;
+	padding:10px,0px;
+	float:left;
+}
+.margin{
+	margin-left:1%;
+	margin-right:1%;
+}
+.margins{
+	margin-right:1%;
+}
+.margine{
+	margin-top:1%;
+}
+.foot{
+	width:100%;
+	height:70px;
+	padding:10px,0px;
+	float:left;
+	background-color:#eee;
+	margin-top:5%;
+
+}
+.foot p
+{
+	text-align:center;
+	font-size: 13px;
+	margin-top:25px;
+	color:#565656;
+
+}
+.blank-box{
+	width:100%;
+	height:300px;
+	padding:10px,0px;
+	float:left;
+}
+.blank-box p{
+	text-align:center;
+	padding-top:70px;
+	margin-bottom:2px;
+	font-size: 16px;
+    color:#565656;
+
+
+}
+.contents p{
+	text-align: center;
+      font-size:13px;
+      margin-top: 2px;
+}
+.banners{
+	width:100%;
+	float:left;
+	height:300px;
+	background-image:url(../images/VerifarePlus-HD.jpg);
+	background-repeat:no-repeat;
+
+}
+
+.web-design{
+
+	width:100%;
+	height:400px;
+	padding:10px,0px;
+	float:left;
+	}
+	.borders{
+		width:22%;
+	float:left;
+	
+	height:200px;
+	
+	}
+	.borders h1{
+		padding-left: 160px;
+		padding-top: 80px
+	}
+	.text span{
+		padding-left: 165px;
+		color:#1e90ff;
+		font-size: 10px;
+	}
+	.web-design{
+		width:100%;
+		float:left;
+		height:280px;
+	}
+	.our-team{
+		float:left;
+	width:100%;
+	height:500px;
+	padding:30px 0;
+	}
+	.team{
+		width:21.33%;
+		float:left;
+		padding-left:10%;
+		height: 200px;
+	}
+	.allen{
+		font-size: 12px;
+		padding-left: 80px;
+		color:#ccc;
+	}
+	.ceo{
+		font-size: 12px;
+		padding-left: 89px;
+		padding-top: 10px;
+		color:#eee;
+	}
+	.pricing{
+		float:left;
+	width:100%;
+	height:600px;
+	padding:30px 0;
+	background-color: #eee;
+	}
+	.price{
+	     width:100%;
+		float:left;
+		padding-left:50px
+		padding-right:50px;
+        height: 470px;
+		margin-top: 35px
+	}
+	.boxs{
+		width:26.33%;
+	float:left;
+	padding:11px,0px;
+	background:#fff;
+	height:350px;
+	margin-left:5%;
+	margin-top: 5%
+	}
+	.boxe{
+		margin-right: 2%;
+	}
+	
+	.boxs p{
+		padding-left: 8px;
+	}
+.basic h1{
+    text-align: center;
+    font-size: 48px;
+}
+.basic sub{
+	font-size: 25px
+}
+.intermediate h1{
+    text-align: center;
+    font-size: 48px;
+}
+.advance h1{
+    text-align: center;
+    font-size: 48px;
+}
+.intermediate sub{
+	font-size: 25px
+}
+.advance sub{
+	font-size: 25px
+}
+.texts p{
+	text-align: center;
+	font-size: 12px;
+	color:#ccc;
+}
+.choose{
+	text-align: center;
+	padding-top: 10px;
+	font-size: 13px;
+	color:#708090;
+
+}
+.get-in-touch{
+
+	float:left;
+	width:100%;
+	height:650px;
+	padding:30px 0;
+	
+
+}
+.containers{
+	width:100%;
+	margin:auto;
+	float:left;
+}
+.left-colmss h1{
+margin-left: 90px;
+margin-top: 90px;
+}
+.left-colmss{
+	width:50%;
+	float:left;
+	
+	
+}
+.right-colmss{
+	width:50%;
+	float:left;
+
+}
+.borderss{
+	width:50px;
+	background-color: yellow;
+	height:3px;
+	margin-left: 100px
+}
+.w3-greysss{
+   background-color:#000;
+	width:70%;
+	height:3px;
+	margin-left: 100px;
+}
+.progressbars{
+	margin-top: 100px;
+
+}
+.information{
+
+	float:left;
+	width:100%;
+	height:300px;
+	padding:30px 0;
+	background-color: #696969;
+	
+}
+.information img{
+	margin-top: 3%;
+	margin-left: 50%
+}
+.bordering{
+	width:110px;
+	background-color: yellow;
+	height:3px;
+	margin-left: 48%;
+	margin-top: 2%
+}
+.menu-info{
+	float:left;
+	text-align: center;
+	width:100%;
+	padding-top: 49px;
+}
+
+.menu-info a{
+   padding-top: 30px;
+   text-align: center;
+	padding:0 15px;
+	font-size:12px;
+	text-decoration:none;
+	 color: #565656;	
+}
+.information p{
+	text-align: center;
+	font-size: 12px;
+	padding-top: 7%;
+	color: white;
+}
+.numb p{
+	text-align: center;
+	padding-top: 1%;
+	color:white;
+}
+.imagine{
+	background-color: #696969;
+}
+.footer{
+	float:left;
+	width:100%;
+	height:30px;
+	padding:30px 0;
+	background-color: black;
+}
+.footer p{
+	text-align: center;
+	font-size: 13px;
+	color:white;
+}
