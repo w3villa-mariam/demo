@@ -352,15 +352,7 @@ padding:5px;
 
 }
 
-.web-design{
 
-	width:100%;
-	height:400px;
-	padding:10px,0px;
-	float:left;
-	padding-left: 60px;
-	
-	}
 	.borders{
 		width:22%;
 	float:left;
@@ -381,9 +373,10 @@ padding:5px;
 		font-size: 10px;
 	}
 	.web-design{
-		width:100%;
+		width:90%;
 		float:left;
 		height:280px;
+		margin-left: 10%;
 	}
 	.our-team{
 		float:left;
