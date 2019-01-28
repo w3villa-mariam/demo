@@ -530,13 +530,13 @@ margin-top: 90px;
 }
 .information img{
 	margin-top: 3%;
-	margin-left: 50%
+	
 }
 .bordering{
 	width:110px;
 	background-color: yellow;
 	height:3px;
-	margin-left: 46%;
+	margin:auto;
 	margin-top: 2%
 }
 .menu-info{
@@ -566,8 +566,8 @@ margin-top: 90px;
 	color:white;
 }
 .imagine{
-	background-color: #696969;
-	padding-right: 50px;
+	
+	text-align:center;
 }
 .footer{
 	float:left;

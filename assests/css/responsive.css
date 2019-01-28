@@ -144,6 +144,8 @@
 	}
 	.web-design{
 		height: 570px;
+		width:95%;
+		margin-left:5%;
 	}
 	.borders h1{
 		padding:0;
@@ -198,13 +200,12 @@
 	padding-bottom: 10px;
 }
 .bordering{
-
-	margin-left: 35%;
+   margin:auto;
 	
 }
-.imagine img{
-	width:20%;
-	margin-left: 43%;
+.
+.imagine{
+	text-align:center;
 }
 .allen{
 	padding-left: 0
@@ -228,6 +229,7 @@
 .team{
 	padding-left:0;
 	}
+
 
 
 }
