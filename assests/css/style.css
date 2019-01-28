@@ -389,6 +389,7 @@ padding:5px;
 		width:21.33%;
 		float:left;
 		padding-left:10%;
+		text-align:center;
 		
 	}
 	.allen{
@@ -436,20 +437,19 @@ padding:5px;
 	.boxs p{
 		padding-left: 8px;
 	}
-.basic h1{
-    text-align: center;
-    font-size: 48px;
+.basic p{
+   text-align:center; 
 }
 .basic sub{
 	font-size: 25px
 }
-.intermediate h1{
+.intermediate p{
     text-align: center;
-    font-size: 48px;
+    
 }
-.advance h1{
+.advance p{
     text-align: center;
-    font-size: 48px;
+   
 }
 .intermediate sub{
 	font-size: 25px

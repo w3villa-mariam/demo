@@ -223,8 +223,8 @@
 	display:block;
 	padding-left: 0;
 }
-.team img{
-	padding-left:30px;
+.team-man img{
+	text-align:center;
 }
 .team{
 	padding-left:0;
