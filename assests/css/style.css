@@ -38,6 +38,7 @@ body {
 	float:right;
 	text-align:left;
 	margin-right: 30px;
+	margin-top: 10px;
 }
 .menu a {	
 	text-align:left;
@@ -62,7 +63,7 @@ body {
 {
 	float:left;
 	width:100%;
-	height:140px;
+	height:110px;
 	padding:30px 0;
 	background-color:#eee;
 
@@ -357,6 +358,8 @@ padding:5px;
 	height:400px;
 	padding:10px,0px;
 	float:left;
+	padding-left: 60px;
+	
 	}
 	.borders{
 		width:22%;
@@ -366,11 +369,14 @@ padding:5px;
 	
 	}
 	.borders h1{
-		padding-left: 160px;
+		text-align:center;
+		display:block;
+
 		padding-top: 80px
 	}
 	.text span{
-		padding-left: 165px;
+		text-align: center;
+		display: block;
 		color:#1e90ff;
 		font-size: 10px;
 	}
@@ -385,6 +391,7 @@ padding:5px;
 	height:500px;
 	padding:30px 0;
 	}
+	
 	.team{
 		width:21.33%;
 		float:left;
@@ -393,12 +400,14 @@ padding:5px;
 	}
 	.allen{
 		font-size: 12px;
-		padding-left: 80px;
+		text-align: center;
+		display: block;
 		color:#ccc;
 	}
 	.ceo{
 		font-size: 12px;
-		padding-left: 89px;
+		
+		text-align: center;
 		padding-top: 10px;
 		color:#eee;
 	}
@@ -534,7 +543,7 @@ margin-top: 90px;
 	width:110px;
 	background-color: yellow;
 	height:3px;
-	margin-left: 48%;
+	margin-left: 46%;
 	margin-top: 2%
 }
 .menu-info{
@@ -565,6 +574,7 @@ margin-top: 90px;
 }
 .imagine{
 	background-color: #696969;
+	padding-right: 50px;
 }
 .footer{
 	float:left;
