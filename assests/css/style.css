@@ -45,7 +45,7 @@ body {
 	float:right;
 	text-align:left;
 	margin-right: 30px;
-	margin-top: -33px;
+	margin-top: -30px;
 }
 .menu a {	
 	text-align:left;
@@ -59,6 +59,11 @@ body {
 width:100%;
 	float:left;
 	height:499px;
+}
+
+.banner-home img {
+	width:100%;
+	max-width:100%;
 }
 
 
@@ -138,7 +143,12 @@ width:100%;
 	margin-top:30px;
 margin-left:38px;
 }
-
+.expert-text{
+	width:27%;
+	font-size:40px;
+	margin-top:90px;
+     margin-left:130px;
+}
 .border-let{
 	width:50px;
 	background-color: yellow;
@@ -448,10 +458,18 @@ margin-right:20px;
 	
 
 }
+.banners img{
+	width:100%;
+	max-width:100%;
+}
 .banner-design{
 	width:100%;
 	float:left;
 	height:458px;
+}
+.banner-design img{
+	width:100%;
+	max-width:100%;
 }
 
 
@@ -611,6 +629,11 @@ margin-right:20px;
 	width:100%;
 	margin:auto;
 	float:left;
+}
+.get-text{
+	font-size:40px;
+	margin-left:150px;
+	margin-top:90px;
 }
 .left-colmss h1{
 margin-left: 90px;
