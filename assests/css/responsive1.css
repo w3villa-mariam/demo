@@ -23,4 +23,57 @@
 		padding-left: 0;
 		padding-right: 0;
 	}
+	.about{
+		padding-left: 0;
+	}
+	.text{
+		padding-right: 0;
+	}
+	.text-expert p{
+		padding-left: 0;
+	}
+	.expertise-border{
+		margin-left: 0;
+	}
+	.pll{
+		padding-left: 0;
+	}
+	.port-border{
+		margin-left:0;
+	}
+	.border-team{
+		margin-left: 0;
+	}
+	.price-border{
+		margin-left: 0;
+	}
+	.price-box{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.get-border{
+		margin-left: 0;
+	}
+	.get p{
+		padding-left: 0;
+	}
+	.form-group{
+		padding-left: 0;
+	}
+	.navbar-brand img{
+		width:100%;
+	}
+	.text-magic{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.let-text{
+		padding-left: 15px;
+	}
+	.image img{
+		width:15%;
+	}
+	.tf{
+		padding-left: 10px;
+	}
 }
