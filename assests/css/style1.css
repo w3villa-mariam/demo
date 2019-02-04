@@ -164,24 +164,29 @@ margin-right:20px;
 .boxe{
 	height:200px;
 	background-color: #eee;
+	/*margin-right: 6px;*/
 	margin-right: 6px;
+	
 }
 .boxs{
 	height:200px;
 	background-color: #eee;
-	margin-left:3px;
 	margin-right: 6px;
+	
 }
 .boxss{
 	height:200px;
 	background-color: #eee;
-	margin-left:3px;
-	margin-right:8px;
+	margin-right: 6px;
+	
 }
 .boxsss{
 	height:200px;
 	background-color: #eee;
 	
+}
+.mt{
+	margin-top: 6px;
 }
 .project{
 	margin-top: 70px;
@@ -263,9 +268,10 @@ width:50px;
     background-color: #eee;
 
 }
-.basic{
+.tf p{
+ text-align: left;
+ padding-top: 20px;
 
-/*background-color: white;*/
 
 }
 .basic p{
@@ -382,5 +388,5 @@ background-color: black;}
 	padding-left: 2rem;
     padding-right: 2rem;
     background-color: white;
-    height: -webkit-fill-available;
+    /*height: -webkit-fill-available;*/
 }

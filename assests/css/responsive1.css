@@ -1,0 +1,26 @@
+
+@media only screen and (max-width: 767px) {
+	.price-card{
+		padding-bottom: 20px;
+	}
+	.mb{
+		margin-bottom: 6px;
+	}
+	.mr{
+     margin-right:0; 
+	}
+	.progressbar{
+		padding-left: 0;
+	}
+	.mt-text{
+		margin-top: 25px;
+	}
+	.team-box{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.card-content{
+		padding-left: 0;
+		padding-right: 0;
+	}
+}
