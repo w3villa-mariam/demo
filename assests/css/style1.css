@@ -65,7 +65,10 @@ font-size:40px;
 	padding-left: 100px;
 }
 .prr{
-	padding-right: 100px;
+	padding-right: 35px;
+}
+.mll{
+	margin-left: 20px;
 }
 .expertise-border{
 	width:50px;
@@ -101,6 +104,9 @@ font-size:40px;
 .graphic-design{
 	padding-top:90px;
 	padding-bottom: 90px;
+}
+.plt p{
+	padding-left: 10px;
 }
 .graph-text{
 
