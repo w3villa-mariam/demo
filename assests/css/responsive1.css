@@ -38,6 +38,9 @@
 	.pll{
 		padding-left: 0;
 	}
+	.prg{
+      padding-right: 0;
+	}
 	.port-border{
 		margin-left:0;
 	}

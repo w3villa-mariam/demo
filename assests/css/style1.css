@@ -40,6 +40,9 @@ text-align:left;
 	text-align:justify;
 
 }
+.p{
+	padding-left: 50px;
+}
 .home img{
 	width:100%;
 	max-width:100%;
@@ -61,13 +64,16 @@ font-size:40px;
 	font-color:#000;
 	padding-left: 100px;
 }
+.prr{
+	padding-right: 100px;
+}
 .expertise-border{
 	width:50px;
 	background-color: yellow;
 	height:3px;
 	float:left;
 	margin-top:-23px;
-	margin-left: 120px;
+	margin-left: 100px;
 	}
 	.w3-light-grey{
 	background:#ccc;
@@ -130,7 +136,7 @@ margin-right:20px;
 .text-magic{
 	padding-top: 50px;
 	padding-bottom: 90px;
-	padding-right: 50px;
+	padding-right: 100px;
   
 	line-height:25px;
 	color:#656565;
@@ -269,8 +275,8 @@ width:50px;
 .price-box{
 	padding-top: 50px;
     padding-bottom: 140px;
-    padding-right: 70px;
-    padding-left: 70px;
+    padding-right: 100px;
+    padding-left: 100px;
     background-color: #eee;
 
 }
